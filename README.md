@@ -92,23 +92,12 @@ Make sure to download the datasets and place them in the appropriate directory (
 
 After training the model, the generator should be able to produce high-quality human or anime faces. The images are saved periodically during training for evaluation.
 
-![image](https://github.com/user-attachments/assets/4fb3c265-b454-4fa9-8ead-657befd43ae8)
-
-![image](https://github.com/user-attachments/assets/c54329ab-4d0f-40f1-9f63-24d82c1812cc)
-
-![image](https://github.com/user-attachments/assets/60f0e429-b2d6-4308-9672-848d36bdc527)
-
-![image](https://github.com/user-attachments/assets/31a5c1e7-487d-4418-ab67-f828f4f7a543)
-
-
-
-
 ### Example Outputs:
 - **Human Faces**:
-  ![Human Example](path_to_example_human_face_image.png)
+  ![image](https://github.com/user-attachments/assets/60f0e429-b2d6-4308-9672-848d36bdc527)
   
 - **Anime Faces**:
-  ![Anime Example](path_to_example_anime_face_image.png)
+ ![image](https://github.com/user-attachments/assets/4fb3c265-b454-4fa9-8ead-657befd43ae8)
 
 ## Usage
 
