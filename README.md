@@ -91,6 +91,7 @@ Make sure to download the datasets and place them in the appropriate directory (
 ## Results
 
 After training the model, the generator should be able to produce high-quality human or anime faces. The images are saved periodically during training for evaluation.
+
 ![image](https://github.com/user-attachments/assets/4fb3c265-b454-4fa9-8ead-657befd43ae8)
 
 ![image](https://github.com/user-attachments/assets/c54329ab-4d0f-40f1-9f63-24d82c1812cc)
